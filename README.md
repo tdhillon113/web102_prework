@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Trin's Sea Monster Fund!
 
 Submitted by: Trinity Dhillon
 
