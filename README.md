@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* -[x] Addition of Game boxes in a folating animation state
+* -[x] Addition of Game boxes in a floating animation state
 
 ## Video Walkthrough
 
